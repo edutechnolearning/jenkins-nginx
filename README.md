@@ -1,5 +1,14 @@
 # jenkins-nginx
-Note: The jenkins-nginx-config script works on CentOS 8 only.
+=======================================================
+
+# Note: 
+The jenkins-nginx-config script works on CentOS 8 only.
+If Jenkins and Nignx is ready install then do not use this script.
+Use the following link for manual configuration.
+https://smarttechfunda.com/automate-the-installation-of-jenkins-on-centos-8-configure-with-nginx/
+
+=======================================================
+
 The jenkins-nginx-config script installs the java-11-openjdk, epel repo, Jenkins, and Nginx.
 The jenkins-nginx-config script also configured the Jenkins with Nginx.
 
