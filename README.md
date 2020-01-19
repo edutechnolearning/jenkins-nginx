@@ -10,10 +10,6 @@ CentOS: 8
 
 https://smarttechfunda.com/automate-the-installation-of-jenkins-on-centos-8-configure-with-nginx/
 
-=======================================================
-
-CentOS: 8
-
 The jenkins-nginx-config script installs the java-11-openjdk, epel repo, Jenkins, and Nginx.
 The jenkins-nginx-config script also configured the Jenkins with Nginx.
 
