@@ -2,7 +2,7 @@
 
 =======================================================
 
-<b> Note: <b/>
+Note: 
 
 The jenkins-nginx-config script works on CentOS 8 and Ubuntu 18.04 only.
 If Jenkins and Nignx is already install then do not use this script.
