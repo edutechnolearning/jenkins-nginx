@@ -22,9 +22,9 @@ The jenkins-nginx-config script also configured the Jenkins with Nginx.
 
 ====How to run the script?====
 
-git clone https://github.com/edutechnolearning/jenkins-nginx.git < br/>
-cd jenkins-nginx/script < br/>
-sudo ./jenkins-nginx-config < br/>
-After successfully installation, use the following URL to configure the Jenkins.< br/>
-http:// IP < br/>
+git clone https://github.com/edutechnolearning/jenkins-nginx.git < br />
+cd jenkins-nginx/script < br />
+sudo ./jenkins-nginx-config < br />
+After successfully installation, use the following URL to configure the Jenkins.< br />
+http:// IP < br />
 IP: Enter the Jenkins instance IP.
