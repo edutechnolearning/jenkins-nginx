@@ -1,5 +1,4 @@
 # jenkins-nginx
-
 =======================================================
 
 Note: 
@@ -37,6 +36,7 @@ http:// IP
 IP: Enter the Jenkins instance IP.
 
 # Upgrade Jenkins
+=======================================================
 
 The upgrade_jenkins script upgrade jenkins version.
 The upgrade_jenkins script display the installed version and the latest available version.
