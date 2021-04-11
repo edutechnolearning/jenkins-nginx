@@ -44,6 +44,8 @@ The upgrade_jenkins script prompts the user to enter the latest available versio
 According to OS, this script takes the default installation path. If the user installed Jenkins on a different path, it asks the user to prompt the enter the path where Jenkins installed.
 This script takes the backup of old jenkins.war file, and fails to upgrade the jenkins due to any reason, it restores the old jenkins.war file with restart the jenkins service.
 
+Note: 
+The upgrade_jenkins script supports OS CentOS 7 and Ubuntu 18.04
 ====How to run the script?====
 
 git clone https://github.com/edutechnolearning/jenkins-nginx.git <br>
